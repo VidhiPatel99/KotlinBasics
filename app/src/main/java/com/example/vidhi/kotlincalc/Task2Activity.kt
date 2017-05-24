@@ -61,10 +61,12 @@ class Task2Activity : AppCompatActivity() {
                 dec()
             }
             println(myInt)
+            Log.d("TAG","task"+myInt)
         }
 
         user1.isUserOf("gmail")
         println(user1 isUserOf "Gmail")
+
 
 
 
